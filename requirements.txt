@@ -39,7 +39,7 @@ Jinja2==2.11.2
 jsonschema==3.2.0
 jupyter-client==6.1.5
 jupyter-core==4.6.3
-jupyter-server==0.1.1
+jupyter-server==1.1.1
 jupyterlab-pygments==0.1.1
 lazy-object-proxy==1.4.3
 MarkupSafe==1.1.1
