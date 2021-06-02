@@ -96,7 +96,7 @@ tweepy==3.8.0
 TwitterSearch==1.0.2
 typed-ast==1.4.1
 typing-extensions==3.7.4.2
-urllib3==1.25.9
+urllib3==1.26.5
 virtualenv==20.0.24
 voila==0.1.21
 wcwidth==0.2.5
